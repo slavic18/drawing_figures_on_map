@@ -1,0 +1,22 @@
+As the logic is decoupled from the routing and database source, we can easily test the usecases with a fake repository.
+
+* Creation of a figure.
+* Validation of a figure parameters.
+* Error handling. 
+* data is stored in the repository.
+* wrong data is not stored in the repository.
+
+
+* get all figures.
+* error handling. 
+* data is returned from repository
+* Overlaping of figures?
+
+
+* Deletion of a figure.
+* validation of the hash 
+* error handling.
+* data is deleted from repository.
+
+
+* Generation of hash.
